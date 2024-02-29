@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-sharp-exif",
+  "name": "@zhouhua-dev/gatsby-plugin-sharp-exif",
   "version": "2.0.0",
   "description": "Gatsby Plugin to extract EXIF data from images, compatible with gatsby-plugin-sharp",
   "main": "index.js",
@@ -14,19 +14,19 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thomasgassmann/gatsby-plugin-sharp-exif.git"
+    "url": "git+https://github.com/zhouhua/gatsby-plugin-sharp-exif.git"
   },
   "keywords": [
     "gatsby",
     "gatsby-plugin",
     "exif"
   ],
-  "author": "thomasgassmann",
+  "author": "Zhou Hua",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thomasgassmann/gatsby-plugin-sharp-exif/issues"
+    "url": "https://github.com/zhouhua/gatsby-plugin-sharp-exif/issues"
   },
-  "homepage": "https://github.com/thomasgassmann/gatsby-plugin-sharp-exif#readme",
+  "homepage": "https://github.com/zhouhua/gatsby-plugin-sharp-exif#readme",
   "devDependencies": {
     "@babel/cli": "^7.21.0",
     "@babel/core": "^7.21.0",
