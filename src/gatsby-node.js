@@ -77,7 +77,7 @@ export async function onCreateNode(
       }
     } catch (err) {
       console.warn(`Could not read exif of ${parent.absolutePath}`);
-      console.error(err);
+      console.log(err);
     }
   }
 }
